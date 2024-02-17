@@ -6,6 +6,8 @@ link
 
 [testlink](test.md)
 
+[study link](study.pdf)
+
 
 
 1. 교육자료 
